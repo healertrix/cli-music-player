@@ -1,0 +1,19 @@
+{
+  "name": "node-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "cli-autocomplete": "^0.4.3",
+    "get-audio-duration": "^2.0.3",
+    "node-id3": "^0.2.3",
+    "omelette": "^0.4.15-1",
+    "prompt-autocomplete": "^1.2.0"
+  }
+}
